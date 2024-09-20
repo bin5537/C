@@ -1,4 +1,14 @@
 4주차 수업내용
-- linux 명령어 기초 복습 (ls touch cat)
-- git config --list
-- 우헤헤헤헤헤
+- 기초 리눅스 명령어
+ pwd
+- 기초 깃 명령어
+ fetch, pull
+- go 환경 셋업
+ 컴파일러 설치 (go.dev/dl)
+ vscode 설치
+ 확정 플러그인 설치 (Go)
+ Go 도구 업데이트
+- go 명령
+ go mod init sample
+ cd sample
+ go run main.go
